@@ -25,5 +25,7 @@
         "editor.wordBasedSuggestions": "off",
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
